@@ -4,8 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Olá mundo GitHub versão dois");
+        System.out.println("Sistema na versão moderna/criacao/nome-idade.");
 
-        var x = 10;
     }
 }
